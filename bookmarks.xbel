@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :338: for Floccus bookmark sync browser extension -->
+<!--- highestId :339: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -14,6 +14,9 @@
       <title>zakupy</title>
       <bookmark href="https://allegro.pl/listing?string=gx53&amp;city=Warszawa&amp;state=7&amp;dostawa-odbior-osobisty=1&amp;order=p" id="94">
         <title>Gx53 - Niska cena na Allegro.pl</title>
+      </bookmark>
+      <bookmark href="https://allegro.pl/produkt/biovita-dolomit-nawoz-wapniowo-magnezowy-5-kg-b9e8bfc8-38e9-45bb-888e-50cd77f6137c?offerId=18520747680" id="339">
+        <title>Biovita Dolomit nawóz wapniowo-magnezowy 5 kg, 5907813160479 • Cena • Opinie - Allegro</title>
       </bookmark>
     </folder>
     <bookmark href="https://mapy.meteo.pl/" id="10">
