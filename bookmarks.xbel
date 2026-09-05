@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :339: for Floccus bookmark sync browser extension -->
+<!--- highestId :340: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -16,6 +16,9 @@
         <title>Gx53 - Niska cena na Allegro.pl</title>
       </bookmark>
       <bookmark href="https://allegro.pl/produkt/biovita-dolomit-nawoz-wapniowo-magnezowy-5-kg-b9e8bfc8-38e9-45bb-888e-50cd77f6137c?offerId=18520747680" id="339">
+        <title>Biovita Dolomit nawóz wapniowo-magnezowy 5 kg, 5907813160479 • Cena • Opinie - Allegro</title>
+      </bookmark>
+      <bookmark href="https://allegro.pl/produkt/biovita-dolomit-nawoz-wapniowo-magnezowy-5-kg-b9e8bfc8-38e9-45bb-888e-50cd77f6137c?offerId=18315658789" id="340">
         <title>Biovita Dolomit nawóz wapniowo-magnezowy 5 kg, 5907813160479 • Cena • Opinie - Allegro</title>
       </bookmark>
     </folder>
