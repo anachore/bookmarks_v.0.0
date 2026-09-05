@@ -1,10 +1,1009 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :4: for Floccus bookmark sync browser extension -->
+<!--- highestId :337: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
+  <bookmark href="https://duckduckgo.com/" id="5">
+    <title>Search DuckDuckGo</title>
+  </bookmark>
+  <folder id="6">
+    <title>na_otwarto</title>
+    <bookmark href="https://mapy.meteo.pl/" id="10">
+      <title>ICM Meteo</title>
+    </bookmark>
+    <bookmark href="https://mail.ovh.net/roundcube/?_user=grzegorz.grodzki@cmgamma.pl" id="11">
+      <title>Roundcube Webmail 1.4.13 :: Welcome to Roundcube Webmail 1.4.13</title>
+    </bookmark>
+    <bookmark href="https://wbs-bank.pl/#login" id="12">
+      <title>eBankNet</title>
+    </bookmark>
+    <bookmark href="https://www.zus.pl/portal/logowanie.npi" id="13">
+      <title>PORTAL ZUSNPI - LOGOWANIE I REJESTRACJA</title>
+    </bookmark>
+    <bookmark href="https://ap.ksef.mf.gov.pl/web/" id="14">
+      <title>Strona główna - Krajowy System e-Faktur</title>
+    </bookmark>
+    <bookmark href="https://login.play.pl/auth/realms/mysrv/protocol/openid-connect/auth?client_id=mojeuslugi&amp;redirect_uri=https%3A%2F%2Fmojeuslugi.play.pl%2F&amp;state=f543dfb7-cd42-4322-b768-3c59dc255f3f&amp;response_mode=fragment&amp;response_type=code&amp;scope=openid%20offline_access&amp;nonce=bd5b9915-ce17-4aab-b63c-bf4b78d9cfd3" id="15">
+      <title>Konto Moje usługi - Logowanie i Rejestracja</title>
+    </bookmark>
+    <bookmark href="https://nowymoj.t-mobile.pl/" id="16">
+      <title>Logowanie | Mój T‑Mobile</title>
+    </bookmark>
+    <bookmark href="https://oid-ws.orlen.pl/realms/oid/protocol/openid-connect/auth?response_type=code&amp;code_challenge_method=S256&amp;scope=openid&amp;client_id=pgnig&amp;redirect_uri=https://ebok.myorlen.pl/auth/oid/after-login-callback&amp;state=NjZiZTExMDEtOGUxNi00Y2UyLTgzYjctMTYwYWI2ZTRhYzM2NTQxNzQ3MmYtOWEwNC00MWVjLThjYmUtMzQxNGZhYmRmNDEx&amp;code_challenge=nC-ysQUf0FTokSgacSFnsS-pchVrL7fIgvxffCW_nG0" id="17">
+      <title>Zaloguj się do ORLEN ID</title>
+    </bookmark>
+    <bookmark href="https://ebok.pgnig.pl/umowy/nowa" id="18">
+      <title>eBOK PGNiG - Załatw wszystko online!</title>
+    </bookmark>
+    <bookmark href="https://ebok.gkpge.pl/ebok/faces/profil/logowanie.xhtml" id="19">
+      <title>PGE eBOK - elektroniczne Biuro Obsługi Klienta PGE</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/" id="87">
+      <title>DuckDuckGo — Privacy, simplified.</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.1/" id="88">
+      <title>ASUS Wireless Router</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.1/Advanced_AiDisk_others.asp" id="89">
+      <title>ASUS Wireless Router - Common Setting</title>
+    </bookmark>
+    <bookmark href="https://www.wtp.waw.pl/" id="90">
+      <title>Warszawski Transport Publiczny</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.1:9091/transmission/web/" id="91">
+      <title>Transmission WEB Control 1.0 Beta</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.1/ariaweb/index.html" id="92">
+      <title>Aria2 WebUI</title>
+    </bookmark>
+    <bookmark href="https://pl.glosbe.com/la/pl" id="93">
+      <title>Słownik łacińsko - polski | Glosbe</title>
+    </bookmark>
+    <bookmark href="https://allegro.pl/listing?string=gx53&amp;city=Warszawa&amp;state=7&amp;dostawa-odbior-osobisty=1&amp;order=p" id="94">
+      <title>Gx53 - Niska cena na Allegro.pl</title>
+    </bookmark>
+    <bookmark href="https://api.plus.pl/tos/3b6abbb15b12431dd7f5fb1d75d71178b734f51d616214f9a4cdc0d480af0eed.pdf" id="95">
+      <title>rok ważności konta</title>
+    </bookmark>
+    <bookmark href="https://www.e-pity.pl/pit-online/#/home" id="96">
+      <title>Program e-pity | PIT online 2024 za 2023</title>
+    </bookmark>
+    <bookmark href="https://koleo.pl/" id="98">
+      <title>Rozkład jazdy PKP i bilety &gt;&gt; KOLEO</title>
+    </bookmark>
+    <bookmark href="https://koleo.pl/rozklad-pkp/otwock/lublin-glowny/02-02-2025_19:00/all/all" id="99">
+      <title>PKP Otwock &gt; Lublin Główny &gt; rozkład jazdy i bilety IC &gt;&gt; KOLEO</title>
+    </bookmark>
+    <bookmark href="https://lublin.eu/gfx/lublin/userfiles/_public/mieszkancy/srodowisko/halas/konsultacje_program_ochrony_przed_halasem_2018/instrukcja_do_mapy_akustycznej.pdf" id="100">
+      <title>instrukcja_do_mapy_akustycznej.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&amp;ownerTypeSingleSelect=ALL&amp;floors=%5BFIRST%2CSECOND%2CTHIRD%2CFOURTH%2CFIFTH%2CSIXTH%2CSEVENTH%5D&amp;locations=%5Blubelskie%2Flublin%2Flublin%2Flublin%2Fglusk%2Clubelskie%2Flublin%2Flublin%2Flublin%2Fkosminek%2Clubelskie%2Flublin%2Flublin%2Flublin%2Ffelin%2Clubelskie%2Flublin%2Flublin%2Flublin%2Fbronowice%5D&amp;by=DEFAULT&amp;direction=DESC&amp;viewType=map&amp;mapBounds=51.24675374129791%3B22.730258093931855%3B51.17643511880934%3B22.497043619068137" id="101">
+      <title>Mieszkania na sprzedaż: w wielu lokalizacjach | Otodom.pl</title>
+    </bookmark>
+    <bookmark href="https://gethome.pl/mieszkania/na-sprzedaz/lublin/" id="102">
+      <title>Mieszkania na sprzedaż Lublin - gethome.pl</title>
+    </bookmark>
+    <bookmark href="https://geoportal.lublin.eu/2d/#" id="103">
+      <title>https://geoportal.lublin.eu/2d/#</title>
+    </bookmark>
+    <bookmark href="https://adresowo.pl/mieszkania/flu" id="104">
+      <title>Mieszkania na sprzedaż, lubelskie [Bez pośredników]</title>
+    </bookmark>
+    <bookmark href="https://adresowo.pl/?info=emailConfirmed" id="105">
+      <title>Nieruchomości - najwięcej ogłoszeń nieruchomości bez pośredników</title>
+    </bookmark>
+    <bookmark href="https://lublin.nieruchomosci-online.pl/" id="106">
+      <title>Nieruchomości Lublin - Ogłoszenia sprzedaży i wynajmu nieruchomości w Lublinie</title>
+    </bookmark>
+    <bookmark href="https://mapa.um.warszawa.pl/mapaApp1/mapa?service=mapa_akustyczna" id="107">
+      <title>https://mapa.um.warszawa.pl/mapaApp1/mapa?service=mapa_akustyczna</title>
+    </bookmark>
+    <bookmark href="https://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-ul-sokola-ID4BFZA" id="111">
+      <title>2 pokoje, mieszkanie na sprzedaż - Lublin, Bronowice - 68084902 • www.otodom.pl</title>
+    </bookmark>
+    <bookmark href="https://ebok.myorlen.pl/" id="112">
+      <title>eBOK myORLEN - Załatw wszystko online!</title>
+    </bookmark>
+  </folder>
+  <folder id="7">
+    <title>maszynowe</title>
+    <folder id="20">
+      <title>floccus</title>
+      <bookmark href="https://floccus.org/faq/" id="37">
+        <title>Frequently Asked Questions - Floccus bookmarks sync</title>
+      </bookmark>
+      <bookmark href="https://github.com/floccusaddon/floccus/discussions/1655" id="38">
+        <title>How to host your bookmarks on Github? error 401 · floccusaddon/floccus · Discussion #1655 · GitHub</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies" id="21">
+      <title>Extractors · yt-dlp/yt-dlp Wiki · GitHub</title>
+    </bookmark>
+    <bookmark href="https://github.com/yt-dlp/yt-dlp" id="22">
+      <title>GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader</title>
+    </bookmark>
+    <bookmark href="https://dev.to/osovsky/6-ways-to-get-youtube-cookies-for-yt-dlp-in-2026-only-1-works-2cnb" id="23">
+      <title>6 Ways to Get YouTube Cookies for yt-dlp in 2026 — Only 1 Works - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://sigmaos.com/tips/browsers/how-to-manage-cookies-on-tor-browser" id="24">
+      <title>How to Manage Cookies on Tor Browser | Browser Tips | SigmaOS</title>
+    </bookmark>
+    <bookmark href="https://tor.stackexchange.com/questions/8910/how-tor-handles-cookies" id="25">
+      <title>How Tor handles cookies? - Tor Stack Exchange</title>
+    </bookmark>
+    <bookmark href="https://michaelwaterman.nl/2025/10/14/secure-luks-container-on-linux/" id="26">
+      <title>Secure LUKS containers on Linux – Michael Waterman</title>
+    </bookmark>
+    <bookmark href="https://archive.archlinux.org/packages/" id="27">
+      <title>Index of /packages/</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>robota</title>
+    <bookmark href="https://learningradiology.com/images/boneimages1/boneindex.html" id="28">
+      <title>LearningRadiology-MSK Image Gallery</title>
+    </bookmark>
+    <bookmark href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9369831/" id="29">
+      <title>Imaging in Hip Arthroplasty Management Part 2: Postoperative Diagnostic Imaging Strategy - PMC</title>
+    </bookmark>
+    <bookmark href="https://radiologyassistant.nl/musculoskeletal/hip/arthroplasty" id="30">
+      <title>The Radiology Assistant : Arthroplasty of the Hip</title>
+    </bookmark>
+    <bookmark href="https://radiologyassistant.nl/musculoskeletal/shoulder/mri-anatomy" id="31">
+      <title>The Radiology Assistant : Shoulder Anatomy and Variants on MRI</title>
+    </bookmark>
+  </folder>
+  <folder id="9">
+    <title>otium</title>
+    <folder id="32">
+      <title>sluchowiska</title>
+      <bookmark href="https://www.youtube.com/@tomvron8603" id="39">
+        <title>Tom Vron - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=l-DlCCoCCwY" id="40">
+        <title>[kryminał] &quot;Używka profesora Bingo&quot; (Teatrzyk Zielone Oko) - Kownacka, Chamiec, Drzewicz, Obertyn - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=NAkoMqRRCrM" id="41">
+        <title>Teatrzyk Zielone Oko Ewa Szumańska &quot; Optima &quot;. - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=XOoaxzanFDw" id="42">
+        <title>Opowieści o pilocie Pirxie - audiobook | Stanisław Lem (czyta: Maciej Kowalik) - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="33">
+      <title>esrom</title>
+      <bookmark href="https://bammadeo.blogspot.com/2010/05/alfabet-morsea.html" id="43">
+        <title>BAMMADEO: Alfabet Morse&apos;a</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=pnSQWkbqmLo" id="44">
+        <title>telegrafia cw #03 jak nauczyć się alfabetu morse&apos;a? - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=ZGuexLbPEsw" id="45">
+        <title>CODIGO MORSE (CW) MUSICAL - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=VZFKQLU_pVY&amp;list=PL9jfS4oWGRbuLT6UKgIs0SejYhXomrCtV&amp;index=1" id="46">
+        <title>Morse code course - Q code, abbreviations - Lesson 1 Kurs telegrafii - Kod Q i skróty - Lekcja 1 - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="34">
+      <title>libri</title>
+      <bookmark href="https://tezeusz.pl/ogolny-wstep-do-filozofii-gawecki-boleslaw-j-1549931" id="47">
+        <title>Ogólny wstęp do filozofii - Bolesław J. Gawecki | książka w tezeusz.pl książki promocje, używane książki, nowości wydawnicze</title>
+      </bookmark>
+      <folder id="48">
+        <title>sf</title>
+        <bookmark href="https://greybrow.iq.pl/Sawaszkiewicz/Sawaszkiewicz.html" id="67">
+          <title>Jacek Sawaszkiewicz</title>
+        </bookmark>
+        <bookmark href="https://archive.org/details/SFTec/Adam%20Synowiec%20-%20Jajo/mode/2up" id="68">
+          <title>Młody Technik - opowiadania science-fiction : Free Download, Borrow, and Streaming : Internet Archive</title>
+        </bookmark>
+        <bookmark href="https://archive.org/details/mlody.technik.roczniki.1980-1991.PDF" id="69">
+          <title>Młody Technik kompletne roczniki 1980-1991 PDF : None : Free Download, Borrow, and Streaming : Internet Archive</title>
+        </bookmark>
+        <bookmark href="https://archive.org/details/Fantastyka-001-1982-10/mode/2up" id="70">
+          <title>Fantastyka-001-1982-10 : Fantastyka : Free Download, Borrow, and Streaming : Internet Archive</title>
+        </bookmark>
+        <bookmark href="https://archive.org/details/mlody.technik.roczniki.1953-1979.PDF" id="71">
+          <title>Młody Technik kompletne roczniki 1953-1979 PDF : None : Free Download, Borrow, and Streaming : Internet Archive</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=lmUbD5tTUas" id="72">
+          <title>Janusz Zajdel ojciec polskiej fantastyki socjologicznej - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=UrF3F7ViJAE" id="73">
+          <title>Janusz Zajdel | W powiększeniu - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=sVebybByKrk" id="74">
+          <title>Janusz A. Zajdel wczoraj i dziś - YouTube</title>
+        </bookmark>
+      </folder>
+      <folder id="49">
+        <title>inne</title>
+        <bookmark href="https://epdf.tips/" id="75">
+          <title>Write A Book And Publish - PDF Free Download - EPDF.TIPS</title>
+        </bookmark>
+        <bookmark href="https://doci.pl/" id="76">
+          <title>Doci.pl</title>
+        </bookmark>
+        <bookmark href="https://docer.pl/" id="77">
+          <title>Docer.pl - odkrywaj, dziel się z innymi i publikuj dokumenty!</title>
+        </bookmark>
+        <bookmark href="https://freedisc.pl/search/all/drugie%20spojrzenie%20na%20planet%C4%99%20ksi" id="78">
+          <title>Freedisc.pl</title>
+        </bookmark>
+        <bookmark href="https://dokumen.tips/" id="79">
+          <title>Share and Discover Knowledge - DOKUMEN.TIPS</title>
+        </bookmark>
+      </folder>
+      <folder id="50">
+        <title>pan_Samochodzik</title>
+        <bookmark href="https://www.google.com/maps/d/viewer?mid=1PEyhvzLDz_IWhgMgBhfMnLlZAGs&amp;msa=0&amp;ll=53.7063877348149%2C19.6280214956334&amp;z=13" id="80">
+          <title>Zbigniew Nienacki – Google My Maps</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/maps/d/viewer?mid=1PEyhvzLDz_IWhgMgBhfMnLlZAGs&amp;msa=0&amp;ll=52.39763737171587%2C19.50651123029227&amp;z=7" id="81">
+          <title>Zbigniew Nienacki – Google My Maps</title>
+        </bookmark>
+        <bookmark href="https://znienacka.com.pl/" id="82">
+          <title>ZNienacka – Portal i forum osób zainteresowanych, literaturą, filmem, podróżami. Nasza specjalność to tematyka związana z dorobkiem literackim Zbigniewa Nienackiego.</title>
+        </bookmark>
+        <bookmark href="https://pansamochodzik.net.pl/" id="83">
+          <title>Forum Pana Samochodzika</title>
+        </bookmark>
+        <bookmark href="https://bc.wimbp.lodz.pl/dlibra/publication/68825#structure" id="84">
+          <title>Regionalia Ziemi Łódzkiej</title>
+        </bookmark>
+        <bookmark href="https://pansamochodzik.net.pl/viewtopic.php?t=283" id="85">
+          <title>Forum Pana Samochodzika - Zobacz temat - Ogólne podsumownie kontynuacji</title>
+        </bookmark>
+        <bookmark href="https://freedisc.pl/ronin112,d-2091213,pan-samochodzik" id="86">
+          <title>Pan Samochodzik - Nienacki Zbigniew - przygodowe - książki - ronin112 - Freedisc.pl</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="35">
+      <title>filmy</title>
+      <bookmark href="https://vod.tvp.pl/seriale,18/07-zglos-sie-odcinki,278077" id="51">
+        <title>07 zgłoś się - serial telewizyjny, Oglądaj na VOD TVP</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@kronikiaudiobooki/videos" id="52">
+        <title>Ściśle Jawne - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.rapidseedbox.com/blog/yt-dlp-complete-guide" id="53">
+        <title>YT-DLP: The Complete Guide (2023) — RapidSeedbox</title>
+      </bookmark>
+      <bookmark href="https://wiki.archlinux.org/title/Yt-dlp" id="54">
+        <title>yt-dlp - ArchWiki</title>
+      </bookmark>
+      <bookmark href="https://www.1337x.tw/" id="55">
+        <title>1337x | Free Movies, TV Series, Music, Games and Software</title>
+      </bookmark>
+      <bookmark href="https://www.techworm.net/2019/06/1337x-proxy-sites-list-alternatives.html" id="56">
+        <title>1337x Proxy List 2024 - WORKING Unblock [ 1337x Mirror/ Proxy ]</title>
+      </bookmark>
+    </folder>
+    <folder id="36">
+      <title>astronomia</title>
+      <bookmark href="https://mcastronomia.blogspot.com/" id="57">
+        <title>McGoris - Blog o Astronomii</title>
+      </bookmark>
+      <bookmark href="https://ciekawafizyka.wordpress.com/2011/11/09/niebo-w-listopadzie/" id="58">
+        <title>Niebo w listopadzie | Fizyka jest ciekawa!</title>
+      </bookmark>
+      <bookmark href="http://www.wiw.pl/astronomia/niebo/" id="59">
+        <title>Gwiazdozbiory całego roku - Astronomia i kosmologia - Wirtualny Wszechświat</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/channel/UCUf2s0jv_meXMVABX2gHZxw" id="60">
+        <title>radio-teleskop.pl - YouTube</title>
+      </bookmark>
+      <bookmark href="https://astromaniak.pl/viewtopic.php?t=28861" id="61">
+        <title>Temat - Miejsce do Obserwacji - okolice Warszawy</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@Mateusz_AstroLife" id="62">
+        <title>AstroLife - YouTube</title>
+      </bookmark>
+      <bookmark href="https://zpe.gov.pl/a/obrotowa-mapa-nieba/DoZ5YJhtl" id="63">
+        <title>Obrotowa mapa nieba - Zintegrowana Platforma Edukacyjna</title>
+      </bookmark>
+      <bookmark href="https://meteo.imgw.pl/dyn/#group=nwp&amp;param=tcc-0-sfc&amp;model=alaro4k0&amp;loc=52.24,21.034,7" id="64">
+        <title>METEO IMGW-PIB: mapy dynamiczne</title>
+      </bookmark>
+      <bookmark href="http://gwiazdozbiory.eulersoft.com.pl/Tabela.html" id="65">
+        <title>Nasze Gwiazdozbiory</title>
+      </bookmark>
+      <bookmark href="https://www.lightpollutionmap.info/#zoom=8.95&amp;lat=52.2081&amp;lon=20.8815&amp;state=eyJiYXNlbWFwIjoiTGF5ZXJCaW5nUm9hZCIsIm92ZXJsYXkiOiJ3YV8yMDE1Iiwib3ZlcmxheWNvbG9yIjpmYWxzZSwib3ZlcmxheW9wYWNpdHkiOjYwLCJmZWF0dXJlc29wYWNpdHkiOjg1fQ==" id="66">
+        <title>Light pollution map</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="97">
+    <title>sraczka</title>
+    <bookmark href="https://mail.ovh.net/roundcube/?_user=grzegorz.grodzki@cmgamma.pl" id="108">
+      <title>Roundcube Webmail 1.3.6 :: Welcome to Roundcube Webmail 1.3.6</title>
+    </bookmark>
+    <bookmark href="https://wbs-bank.pl/#login" id="109">
+      <title>eBankNet</title>
+    </bookmark>
+    <bookmark href="https://www.e-pity.pl/pit-online/index.php?&amp;partner=lpephome#/home" id="110">
+      <title>Program e-pity | PIT online 2022 za 2021</title>
+    </bookmark>
+  </folder>
+  <folder id="113">
+    <title>rzeczy</title>
+    <bookmark href="https://www.youtube.com/watch?v=7dz6lFRf4Is" id="114">
+      <title>IPNtv: ZAPORA - film dokumentalny (English Subtitles) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=c2P-hBUV0BA" id="115">
+      <title>Wykład NAI pt: Cywilizacja Turańska. - YouTube</title>
+    </bookmark>
+    <folder id="116">
+      <title>rzadkie</title>
+      <bookmark href="https://www.youtube.com/channel/UCy1x9wtGTkEOI7RsoGBg1iw" id="123">
+        <title>na argumenty - YouTube - YouTube</title>
+      </bookmark>
+      <bookmark href="https://wiedzaspoleczna.pl/wyklady/" id="124">
+        <title>Krzysztof Karoń - wykłady, spotkania, pogadanki</title>
+      </bookmark>
+    </folder>
+    <folder id="117">
+      <title>czwartek</title>
+      <bookmark href="https://myslpolska.info/" id="125">
+        <title>Myśl Polska | Najstarszy polski tygodnik - ukazuje się od 1941 roku</title>
+      </bookmark>
+    </folder>
+    <folder id="118">
+      <title>mediowe</title>
+      <bookmark href="https://www.youtube.com/user/asmeredakcja" id="126">
+        <title>asmeredakcja - YouTube - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/channel/UCtnpvFVFVlS8sf5blhTr1lQ" id="127">
+        <title>Stanisław Michalkiewicz - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/channel/UCDV5V9-Dlx6jisC59QYP_kA" id="128">
+        <title>Grzegorz Braun - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/c/LeszekSykulskiTV/videos" id="129">
+        <title>Leszek Sykulski - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/c/Niezale%C5%BCnyLublinTV" id="130">
+        <title>Niezależny Lublin - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="119">
+      <title>res</title>
+      <bookmark href="http://www.potamtejstronie.pl/wiara/o_grzechy.html" id="131">
+        <title>po tamtej stronie...</title>
+      </bookmark>
+      <bookmark href="https://archive.ccwatershed.org/media/pdfs/22/11/19/01-55-41_0.pdf" id="132">
+        <title>45857-Lecoffre-ORDINARIUM-MISSAE-or-1905-KYRIALE - 01-55-41_0.pdf</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@liturgiapl/videos" id="133">
+        <title>Liturgia.pl - YouTube</title>
+      </bookmark>
+      <bookmark href="http://www.rakowiecka.jezuici.pl/ogloszenia" id="134">
+        <title>Ogłoszenia Duszpasterskie na IV Niedzielę Wielkiego Postu - Ogłoszenia - Parafia Rzymskokatolicka Św. Andrzeja Boboli w Warszawie</title>
+      </bookmark>
+      <bookmark href="https://introibo.pl/" id="135">
+        <title>Introibo | Msza Święta w klasycznym rycie rzymskim</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=1xOJj_N6n0g" id="136">
+        <title>Dlaczego abdykacja Papieża Benedykta XVI wzbudza tak wiele wątpliwości | Abp Jan Lenga - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/user/TubaCordis" id="137">
+        <title>Tuba Cordis - YouTube</title>
+      </bookmark>
+      <bookmark href="https://verbumcatholicum.com/" id="138">
+        <title>Verbum catholicum – Ku odzyskaniu myślenia katolickiego</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@FSSPXPolska/streams" id="139">
+        <title>FSSPX Polska - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLm1QLWoYwwEa5lX7rMfNJYV-3UkZDhFx9&amp;fbclid=IwAR1UkEu0pSsCignkDDjbv-VGDIJY1ctWvJ1VcOohxa6hwLng-jFwvDbCDJQ" id="140">
+        <title>Pawlukiewicz 2019 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/channel/UCjgohSpp-TsIXgnvl0NxKzQ" id="149">
+        <title>Szkoły Akwinaty - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="120">
+      <title>nemo</title>
+      <bookmark href="https://pan-nikt.pl/" id="141">
+        <title>Pan Nikt – Pan Nikt</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/channel/UCle3qlQA0UhIQVkcOUb_L1A" id="142">
+        <title>Łódzka TV - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="121">
+      <title>osad</title>
+      <bookmark href="https://www.youtube.com/channel/UCwcQ1g4Uz2MvtJ1fvN4De8g/videos" id="143">
+        <title>KONKRETNY KANAŁ - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="122">
+      <title>wpływy</title>
+      <bookmark href="https://pl.glosbe.com/ru/pl" id="144">
+        <title>Słownik rosyjsko - polski | Glosbe</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/c/WeebUnion" id="145">
+        <title>Weeb Union - YouTube</title>
+      </bookmark>
+      <bookmark href="https://t.me/s/Suriyak_maps" id="146">
+        <title>Suriyakmaps – Telegram</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@militarySummary_ru" id="147">
+        <title>Военные Сводки - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@frentemilitargeo" id="148">
+        <title>Frente Militar y Geopolítico - YouTube</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="150">
+    <title>ruterek</title>
+    <bookmark href="http://192.168.1.1:8081/downloadmaster/task.asp" id="151">
+      <title>‪Download Master</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.1/" id="152">
+      <title>‪ASUS Wireless Router RT-N65U - Network Map</title>
+    </bookmark>
+    <bookmark href="http://pl.scribd.com/doc/93650041/TX-Scribdamuled-amulecmd-odt" id="153">
+      <title>TX Scribdamuled.amulecmd.odt</title>
+    </bookmark>
+    <bookmark href="http://www.cnet.de/41001557/die-beste-eigenbau-dvb-t-antenne-doppelquad-fuer-5-euro-basteln/" id="154">
+      <title>Die beste Eigenbau-DVB-T-Antenne: Doppelquad für 5 Euro basteln - CNET.de</title>
+    </bookmark>
+  </folder>
+  <folder id="155">
+    <title>Latíne</title>
+    <bookmark href="https://vocab.chat/blog/greek-prefixes.html" id="156">
+      <title>300+ Greek prefixes: a comprehensive guide</title>
+    </bookmark>
+    <bookmark href="https://www.filmweb.pl/person/Pawe%C5%82+Del%C4%85g-417/discussion/Zagra%C5%82+Marka+Antoniusza-2220535" id="157">
+      <title>Zagrał Marka Antoniusza - Paweł Deląg - Forum - Filmweb</title>
+    </bookmark>
+    <bookmark href="http://latindiscussion.com/forum/threads/destiny-of-rome.18516/" id="158">
+      <title>Destiny of Rome | Latin D</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=RRTh3qqZLkQ" id="159">
+      <title>Emperor, Imperator a film by Konrad Łęcki (in Latin and Teutonic :) - YouTube</title>
+    </bookmark>
+    <bookmark href="http://pl.pons.com/t%C5%82umaczenie/hiszpa%C5%84ski-polski" id="160">
+      <title>Słownik hiszpańsko » polski : PONS.com</title>
+    </bookmark>
+    <bookmark href="http://ling.pl/" id="161">
+      <title>Słownik internetowy w 7 językach - Ling.pl</title>
+    </bookmark>
+    <bookmark href="https://pl.glosbe.com/la/pl/" id="162">
+      <title>Łacińsko-Polski słownik, Glosbe</title>
+    </bookmark>
+    <bookmark href="https://pl.glosbe.com/la/pl" id="163">
+      <title>Słownik łacińsko - polski | Glosbe</title>
+    </bookmark>
+    <bookmark href="https://pl.pons.com/t%C5%82umaczenie/rosyjski-polski" id="164">
+      <title>Tłumaczenia PONS | Numer 1 z rosyjski na polski</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=CIT55H9qtzY" id="165">
+      <title>Joanni III regi Poloniae [...] munera oblata [...] anno 1687, Josepho Juvencio auctore [1/9] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Fl3772iUKd0" id="166">
+      <title>Joanni III regi Poloniae [...] munera oblata [...] anno 1687, Josepho Juvencio auctore [2/9] - YouTube</title>
+    </bookmark>
+    <bookmark href="http://latinaomnibus.pl/" id="167">
+      <title>Lingua Latina Omnibus</title>
+    </bookmark>
+    <bookmark href="http://www.alcuinus.net/ephemeris/" id="168">
+      <title>EPHEMERIS. Nuntii Latini universi.</title>
+    </bookmark>
+    <bookmark href="http://lacina.globalnie.com.pl/podrecznik-do-laciny-online/?_page=3" id="169">
+      <title>Podręcznik do łaciny online - Łacina globalnie</title>
+    </bookmark>
+    <bookmark href="https://woofla.pl/tag/jezyk-lacinski/" id="170">
+      <title>język łaciński | Woofla Świat Języków Obcych</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/c/NoctesWratislavienses/videos" id="171">
+      <title>Noctes Wratislavienses - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=lHslUGP4nT8" id="172">
+      <title>Katarzyna Ochman – VI renesans w toku, czyli krótko o rewolucji roku 2018 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://soundcloud.com/in-foro-romano" id="173">
+      <title>In Foro Romano | Free Listening on SoundCloud</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/channel/UCJCYCaXUERhY93xEWC8Cojw" id="174">
+      <title>Satura Lanx - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/channel/UCxS3m8PITAWuADD9Nic1YOg" id="175">
+      <title>LATINITIUM - YouTube</title>
+    </bookmark>
+    <bookmark href="https://academialatin.com/como-pronunciar-latin-clasico-pronuntiatio-restituta-para-hispanohablantes/" id="176">
+      <title>Cómo pronunciar latín clásico: pronuntiatio restituta para hispanohablantes</title>
+    </bookmark>
+    <bookmark href="https://www.scribd.com/document/439723175/Pronuntiatio-Restituta" id="177">
+      <title>Pronuntiatio Restituta | latín | Vocal</title>
+    </bookmark>
+    <bookmark href="http://www.hispanoteca.eu/Foro/ARCHIVO-Foro/Pronunciaci%C3%B3n%20lat%C3%ADn%20cl%C3%A1sico.htm" id="178">
+      <title>Pronunciación latín clásico</title>
+    </bookmark>
+    <bookmark href="https://es.catholic.net/op/articulos/48224/cat/54/leccion-2-la-grafia-y-la-pronunciacion-del-latin.html#modal" id="179">
+      <title>Catholic.net - Lección 2 La Grafía y la pronunciación del latín.</title>
+    </bookmark>
+    <bookmark href="https://www.uv.es/ivorra/Latin/evolucion.htm" id="180">
+      <title>Evolución del latín</title>
+    </bookmark>
+    <bookmark href="https://www.latinitium.com/latin-audio-archive/" id="181">
+      <title>Latinitium – Latin audio archive (2019)</title>
+    </bookmark>
+    <bookmark href="https://www.latinitium.com/podcast/" id="182">
+      <title>Latinitium – Videos in Latin: literature, history, and language</title>
+    </bookmark>
+    <bookmark href="https://oxinaga.tripod.com/romae.html" id="183">
+      <title>Romae Historia Facilis</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/channel/UCafRyEPk3QWraG4h1_8Qk8A" id="184">
+      <title>Litterae Christianae - Podcast - YouTube</title>
+    </bookmark>
+    <bookmark href="https://lsj.gr/wiki/Main_Page" id="185">
+      <title>LSJ</title>
+    </bookmark>
+    <bookmark href="https://lacinska.pl/" id="186">
+      <title>Lacinska.pl - Okiem Łacinnika. Informacje, wiadomości, komentarze</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@parvahinnula" id="187">
+      <title>Parva Hinnula - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="188">
+    <title>inversión</title>
+    <bookmark href="http://wspieramrozwoj.pl/" id="189">
+      <title>WspieramRozwój.pl - polskie marki i polskie firmy czyli istota patriotyzmu ekonomicznego</title>
+    </bookmark>
+    <bookmark href="https://www.pola-app.pl/" id="190">
+      <title>Pola. Zabierz ją na zakupy</title>
+    </bookmark>
+    <bookmark href="https://www.apkmonk.com/app/pl.greendart.polskiemarki/" id="191">
+      <title>Polskie Marki 2.0 Apk Download latest version 2.0.1- pl.greendart.polskiemarki</title>
+    </bookmark>
+    <bookmark href="http://wspieramrynek.pl/" id="192">
+      <title>WspieramRynek.PL | Kupuj świadomie polskie produkty</title>
+    </bookmark>
+    <bookmark href="http://www.benchmark.pl/aktualnosci/aplikacja-dla-zakupowych-patriotow-wspieramrynek-pl.html" id="193">
+      <title>Aplikacja dla zakupowych patriotów - WspieramRynek.pl</title>
+    </bookmark>
+    <bookmark href="https://news.fsspx.pl/2018/10/mozliwosc-przekazania-1-podatku-na-dziela-apostolskie-bractwa-kaplanskiego-sw-piusa-x/" id="194">
+      <title>Możliwość przekazania 1% podatku na dzieła apostolskie Bractwa Kapłańskiego Św. Piusa X | Wiadomości Tradycji Katolickiej</title>
+    </bookmark>
+    <bookmark href="http://www.mennicaskarbowa.pl/" id="195">
+      <title>Mennica Skarbowa - Pewne inwestycje w metale szlachetne</title>
+    </bookmark>
+    <bookmark href="https://skup.zlota.pl/ceny-skupu" id="196">
+      <title>Aktualne ceny skupu złota i innych metali ● Mennica Skarbowa</title>
+    </bookmark>
+    <bookmark href="https://www.organique.pl/content/15-sklepy-w-polsce" id="197">
+      <title>Sklepy w Polsce - ORGANIQUE</title>
+    </bookmark>
+    <bookmark href="https://shop.purite.pl/webpage/kontakt.html" id="198">
+      <title>Sklepy i kontakt - Sklep Internetowy Purite</title>
+    </bookmark>
+    <bookmark href="https://sklep.urodapolska.eu/glowna/9-dezodorant-meski-extra-fresh.html" id="199">
+      <title>Dezodorant męski - Extra Fresh - Kosmetyki Melisa, ACTIVE 90, Kwiaty Polskie - Autoryzowany sklep marek Uroda Polska!</title>
+    </bookmark>
+    <bookmark href="https://sklep.urodapolska.eu/glowna/40-dezodorant-magic-nights.html" id="200">
+      <title>Dezodorant - Magic Nights - Kosmetyki Melisa, ACTIVE 90, Kwiaty Polskie - Autoryzowany sklep marek Uroda Polska!</title>
+    </bookmark>
+    <bookmark href="https://sklep.urodapolska.eu/sklepy" id="201">
+      <title>sklepy - Kosmetyki Melisa, ACTIVE 90, Kwiaty Polskie - Autoryzowany sklep marek Uroda Polska!</title>
+    </bookmark>
+    <bookmark href="https://wszystkocopolskie.blogspot.com/p/lista-polskich-firm.html" id="202">
+      <title>Wszystko Co Polskie - pokazujemy POLSKIE firmy: LISTA POLSKICH FIRM</title>
+    </bookmark>
+    <bookmark href="https://bankomaty.pl/en" id="203">
+      <title>Map of the ATMs and CDMs in Poland</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=KXawCkCwyQE" id="204">
+      <title>Jak inwestować w złoto i srebro❔ | Praktyczny poradnik - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=R-djL7u_BRc" id="205">
+      <title>Jeśli nie ZUS to co? Jak lokować pieniądze w złoto i srebro - porady praktyczne. - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=K52BfQ-oaTU" id="206">
+      <title>Jak zarabiać 5 razy więcej i jak zachować majątek? Złoto i Bitcoin? Jan Fijor [Expert w Bentleyu] - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.generatormix.com/random-address-in-poland?state=warsaw" id="207">
+      <title>Random Address In Poland - GeneratorMix</title>
+    </bookmark>
+    <bookmark href="https://fauxid.com/fake-name-generator/poland?age=55-64&amp;gender=male" id="208">
+      <title>Fake Name Generator | FauxID.com</title>
+    </bookmark>
+    <bookmark href="https://www.fakexy.com/pl-fake-address-generator-warszawa" id="209">
+      <title>Poland Fake address generator in Warszawa - Random address generator , Poland address list</title>
+    </bookmark>
+    <bookmark href="https://generatorliczb.pl/" id="210">
+      <title>Generator liczb losowych: losowanie liczb online</title>
+    </bookmark>
+    <bookmark href="https://www.calculatormix.com/generators/random-poland-address/" id="211">
+      <title>Random Poland Address - CalculatorMix</title>
+    </bookmark>
+  </folder>
+  <folder id="212">
+    <title>roboczy</title>
+  </folder>
+  <folder id="213">
+    <title>fontes</title>
+    <folder id="214">
+      <title>bless</title>
+      <bookmark href="https://podles.pl/nuty-klucz-basowy-jak-czytac-nuty-i-grac-w-kluczu-basowym-f" id="224">
+        <title>Nuty klucz basowy - jak czytać nuty i grać w kluczu basowym (F)</title>
+      </bookmark>
+      <bookmark href="https://musicaincaelis.blogspot.com/2017/05/wielbic-pana-chce.html" id="225">
+        <title>WIELBIĆ PANA CHCĘ</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=Wp55iAqoB2c" id="226">
+        <title>Wielbić Pana chcę (alt) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=uclrkLY8-PA" id="227">
+        <title>Pan blisko jest (Alt) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=4Bd6blYeILg" id="228">
+        <title>Upadnij na kolana - alt [Głosy pieśni na Triduum - Wielki Czwartek] - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=Kt_YpWmA6Cs" id="229">
+        <title>Upadnij na kolana - tenor [Głosy pieśni na Triduum - Wielki Czwartek] - YouTube</title>
+      </bookmark>
+      <bookmark href="https://musescore.com/user/73281379/scores/32186687" id="230">
+        <title>Bądź mi litościw Sheet Music for Soprano, Alto, Tenor, Bass voice (Choral) | MuseScore.com</title>
+      </bookmark>
+      <bookmark href="https://www.dompelenmuzyki.pl/znaki-chromatyczne-tonacje-kolo-kwintowe/" id="231">
+        <title>Znaki chromatyczne, tonacje, koło kwintowe - DOM PEŁEN MUZYKI NAUKA GRY NA PIANINIE ŁÓDŹ ONLINE</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.youtube.com/watch?v=rHTSSQmWyA8" id="215">
+      <title>Koncert Pieśni Wielkopostnych, Bazylika oo. Dominikanów w Lublinie, 30 marzec 2014 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=f3WI673v-Cc" id="216">
+      <title>2014-06-01 Muzyka baroku - koncert w starym kościele - YouTube</title>
+    </bookmark>
+    <bookmark href="http://www.piusx.org.pl/" id="217">
+      <title>Serwis internetowy Bractwa Św. Piusa X w Polsce</title>
+    </bookmark>
+    <bookmark href="http://www.piusx.org.pl/liturgia/kalendarz" id="218">
+      <title>Kalendarz liturgiczny na bieżący rok</title>
+    </bookmark>
+    <bookmark href="http://www.piusx.org.pl/kaplice/warszawa" id="219">
+      <title>Warszawa</title>
+    </bookmark>
+    <bookmark href="https://warszawa.fsspx.pl/ogloszenia/20-12-2025" id="220">
+      <title>FSSPX - Bractwo Kapłańskie Świętego Piusa X - Warszawa - Kaplica pw. Niepokalanego Poczęcia NMPanny</title>
+    </bookmark>
+    <bookmark href="http://www.divinumofficium.com/cgi-bin/horas/officium.pl#" id="221">
+      <title>Divinum Officium</title>
+    </bookmark>
+    <bookmark href="https://www.msze.info/informator/jak-zamowic-msze-swieta-jak-napisac-intencje-mszalna-tresc-przyklady" id="222">
+      <title>Jak zamówić Mszę świętą? Jak napisać intencję mszalną? Treść, przykłady</title>
+    </bookmark>
+    <bookmark href="https://brainly.pl/zadanie/10392186" id="223">
+      <title>Jak wygląda kartka wypominkowa? - Brainly.pl</title>
+    </bookmark>
+    <bookmark href="http://msza.net/" id="232">
+      <title>Liturgia trydencka | Nadzwyczajna Forma Rytu Rzymskiego | Msza święta Wszechczasów</title>
+    </bookmark>
+    <bookmark href="http://www.xpiotr.pl/" id="233">
+      <title>Ks. Piotr Pawlukiewicz - REKOLEKCJE AKADEMICKIE</title>
+    </bookmark>
+    <bookmark href="http://www.jacek-pulikowski.izajasz.pl/konferencje-mp3.html" id="234">
+      <title>Konferencje mp3, rekolekcje, wykłady | Jacek Pulikowski, konferencje mp3, książki, rekolekcje</title>
+    </bookmark>
+    <bookmark href="https://sacerdoshyacinthus.com/lingua-latina/" id="235">
+      <title>Lingua Latina | Sacerdos Hyacinthus</title>
+    </bookmark>
+    <bookmark href="http://www.kazaniaksiedzapiotra.pl/" id="236">
+      <title>Kazania księdza Piotra</title>
+    </bookmark>
+    <bookmark href="http://adonai.pl/sakramenty/spowiedz/" id="237">
+      <title>Spowiedź, sakrament pojednania - Adonai.pl</title>
+    </bookmark>
+    <bookmark href="http://www.ultramontes.pl/o_nasladowaniu.htm" id="238">
+      <title>O naśladowaniu Jezusa Chrystusa. De imitatione Christi. – Tomasz a Kempis.</title>
+    </bookmark>
+    <bookmark href="http://www.gregorianbooks.com/kyriale.html" id="239">
+      <title>Kyriale</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/channel/UC85jWbHsJv9MQtK0izL3hMQ/videos" id="240">
+      <title>Wielogłosowo - YouTube</title>
+    </bookmark>
+    <bookmark href="http://dominicweb.eu/en/dictionaries/rosary-prayers/?language=rus" id="241">
+      <title>Prayers in Russian | Dominik M. Ramík Dominik M. Ramík</title>
+    </bookmark>
+    <bookmark href="https://www.romanliturgy.org/wordpress/" id="242">
+      <title>Roman Liturgy – Fonts, Missals, Lectionaries, Scores and all kind of online stuff, based on XML, SVG and PDF technologies</title>
+    </bookmark>
+    <bookmark href="http://ultramontes.pl/gasparri_catechismus_catholicus.htm" id="243">
+      <title>Catechismus catholicus. Petrus cardinalis Gasparri. Catechismus catholicus. Cura et studio Petri cardinalis Gasparri concinnatus.</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ZRuFFdalgQQ" id="244">
+      <title>Tamo Daleko - Тамо Далеко (serbian folk song) - YouTube</title>
+    </bookmark>
+    <bookmark href="http://dictionary.sensagent.com/tamo%20daleko/en-en/" id="245">
+      <title>tamo daleko : definition of tamo daleko and synonyms of tamo daleko (English)</title>
+    </bookmark>
+    <bookmark href="https://darktexts.ru/161-lyube-kon.html" id="246">
+      <title>Выйду ночью в поле с конем текст песни</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=m8ZFZsz8mFE" id="247">
+      <title>ЛЮБЭ - Конь - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=-s5yyZ-7Dy0" id="248">
+      <title>&quot;I WILL GO OUT INTO THE FIELD AT NIGHT WITH A HORSE.&quot; The whole country is singing! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@osrodekedukacjiprzyrodnicz7020/videos" id="249">
+      <title>Ośrodek Edukacji Przyrodniczo-Leśnej w Jeziorach Wysokich - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.russian-records.com/details.php?image_id=17569" id="250">
+      <title>Konarmeyskaya (Конармейская), song</title>
+    </bookmark>
+    <bookmark href="https://lyricstranslate.com/en/red-army-choir-konarmeyskaya-lyrics.html" id="251">
+      <title>Red Army Choir - Конармейская (Konarmeyskaya) lyrics</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?t=h_&amp;q=%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8.+%D0%A7%D0%B5%D0%B3%D0%BE+%D1%85%D0%BE%D1%82%D1%8F%D1%82+%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B.&amp;ia=web" id="252">
+      <title>Супергерои. Чего хотят женщины. at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://duckduckgo.com/?t=h_&amp;q=%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8.+%D0%A7%D0%B5%D0%B3%D0%BE+%D1%85%D0%BE%D1%82%D1%8F%D1%82+%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B.&amp;iax=videos&amp;ia=videos" id="253">
+      <title>Супергерои. Чего хотят женщины. at DuckDuckGo</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=_ic11QRgu04" id="254">
+      <title>Супергерои. Чего хотят женщины. Мукла. - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=6exiYxZaHlU" id="255">
+      <title>Salve Regina (lyrics/extended) | Catholic Song - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=hy8ZlhpF3IM" id="256">
+      <title>Salve Regina - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="257">
+    <title>habitatio</title>
+    <folder id="258">
+      <title>aeternales</title>
+      <bookmark href="https://www.abro.pl/public/admin/zdjecia/subiekt_s2s_5350.jpg" id="268">
+        <title>subiekt_s2s_5350.jpg (PNG Image, 800 × 800 pixels)</title>
+      </bookmark>
+    </folder>
+    <folder id="259">
+      <title>pogoda</title>
+      <bookmark href="https://www.meteoprog.pl/pl/weather/Warszawa/" id="269">
+        <title>Pogoda Warszawa. Prognoza pogody w Warszawie | METEOPROG.PL</title>
+      </bookmark>
+      <bookmark href="https://www.meteoprog.pl/pl/weather/Lublin/" id="270">
+        <title>Pogoda Lublin ⇒ Prognoza pogody w Lublinie • Długoterminowa Pogoda na dziś, jutro w Polsce ⇒ METEOPROG.PL</title>
+      </bookmark>
+      <bookmark href="https://mapy.meteo.pl/" id="271">
+        <title>ICM Meteo</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://bilety.contbus.pl/KupBilet.aspx" id="260">
+      <title>CONTBUS - Warszawa - Lublin, Lublin - Warszawa</title>
+    </bookmark>
+    <bookmark href="https://www.busy-krk.pl/lublin-warszawa/" id="261">
+      <title>Busy Lublin Warszawa - rozkłady jazdy TRANSWAY, PKS Polonus, Contbus, FlixBus, PKS Biłgoraj i BP Tour | busy-krk.pl</title>
+    </bookmark>
+    <bookmark href="https://www.wtp.waw.pl/rozklady-jazdy/" id="262">
+      <title>Rozkłady jazdy – Warszawski Transport Publiczny</title>
+    </bookmark>
+    <bookmark href="https://koleo.pl/rozklad-pkp/warszawa-centralna/lublin-glowny/15-03-2021_05:00/all/all" id="263">
+      <title>PKP Warszawa Centralna &gt; Lublin Główny &gt; rozkład jazdy i bilety &gt;&gt; KOLEO</title>
+    </bookmark>
+    <bookmark href="https://koleo.pl/rozklad-pkp/otwock/lublin-glowny/21-10-2024_04:00/all/all" id="264">
+      <title>Otwock &gt; Lublin Główny &gt; IC &gt;&gt; KOLEO</title>
+    </bookmark>
+    <folder id="265">
+      <title>pinus</title>
+      <folder id="272">
+        <title>seeds</title>
+        <bookmark href="https://greenerideal.com/guides/growing-pine-trees-from-seed/" id="274">
+          <title>How to Grow Pine Trees from Seed | Greener Ideal</title>
+        </bookmark>
+        <bookmark href="https://greg.app/propagate-pine-tree/" id="275">
+          <title>🌲 Ultimate Guide to Propagating Pine Tree</title>
+        </bookmark>
+        <bookmark href="https://gilpin.extension.colostate.edu/wp-content/uploads/sites/29/2020/12/Planting-a-Pine-Tree-from-Seed.pdf" id="276">
+          <title>Planting-a-Pine-Tree-from-Seed.pdf</title>
+        </bookmark>
+      </folder>
+      <folder id="273">
+        <title>cuttings</title>
+        <bookmark href="https://shuncy.com/article/grow-pine-trees-cuttings" id="277">
+          <title>Growing Pine Trees From Cuttings: A Step-By-Step Guide | ShunCy</title>
+        </bookmark>
+        <bookmark href="https://treestopsecrets.com/pine-tree/how-to-grow-pine-trees-from-cuttings/" id="278">
+          <title>How To Grow Pine Trees From Cuttings: A Step-by-Step Guide</title>
+        </bookmark>
+        <bookmark href="https://seedsun.com/guide/53638.html" id="279">
+          <title>How to propagate black pine and what to pay attention to</title>
+        </bookmark>
+        <bookmark href="https://cafeplanta.com/a/blog/how-to-successfully-propagate-norfolk-pine-cuttings" id="280">
+          <title>How to Successfully Propagate Norfolk Pine Cuttings – Cafe Planta</title>
+        </bookmark>
+        <bookmark href="https://foliagefriend.com/how-to-grow-pine-trees-from-cuttings/" id="281">
+          <title>How to Grow Pine Trees from Cuttings: Expert Guide - Foliage Friend - Learn About Different Types of Plants</title>
+        </bookmark>
+        <bookmark href="https://treepursuits.com/how-to-grow-pine-trees-from-cuttings/" id="282">
+          <title>How To Grow Pine Trees From Cuttings? Here’s What You Need To Know – Tree Pursuits</title>
+        </bookmark>
+        <bookmark href="https://landscapeplants.oregonstate.edu/plants/pinus-wallichiana" id="283">
+          <title>Pinus wallichiana | Landscape Plants | Oregon State University</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <bookmark href="https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&amp;ownerTypeSingleSelect=ALL&amp;roomsNumber=%5BTWO%2CONE%5D&amp;locations=%5Blubelskie%2Flublin%2Flublin%2Flublin%2Ffelin%2Clubelskie%2Flublin%2Flublin%2Flublin%2Fbronowice%2Clubelskie%2Flublin%2Flublin%2Flublin%2Fkosminek%2Clubelskie%2Flublin%2Flublin%2Flublin%2Fdziesiata%5D&amp;by=DEFAULT&amp;direction=DESC&amp;viewType=map&amp;mapBounds=51.23619847468972%3B22.61189519149454%3B51.21872980075966%3B22.573271381680087" id="266">
+      <title>Mieszkania na sprzedaż: w wielu lokalizacjach | Otodom.pl</title>
+    </bookmark>
+    <bookmark href="https://gethome.pl/mieszkania/na-sprzedaz/lublin/" id="267">
+      <title>Mieszkania na sprzedaż Lublin - gethome.pl</title>
+    </bookmark>
+    <bookmark href="https://adresowo.pl/mieszkania/lublin/" id="284">
+      <title>Mieszkania na sprzedaż Lublin [Bez pośredników]</title>
+    </bookmark>
+    <bookmark href="https://adresowo.pl/mieszkania/flu" id="285">
+      <title>Mieszkania na sprzedaż, lubelskie [Bez pośredników]</title>
+    </bookmark>
+    <bookmark href="https://korter.com.pl/lubelska-osada-lublin" id="286">
+      <title>Lubelska Osada, Lublin — mieszkania deweloperskie, ceny | Ruan Grupa Lubelska Osada</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Az8r9r84Lp8" id="287">
+      <title>Jak UNIKAĆ KŁOPOTÓW przy zakupie mieszkania? - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=G_1_deMPzps" id="288">
+      <title>Jak Nie Dać Się Oszukać Przy Zakupie Mieszkania? - YouTube</title>
+    </bookmark>
+    <bookmark href="https://mapa.um.warszawa.pl/mapaApp1/mapa?service=mapa_akustyczna" id="289">
+      <title>https://mapa.um.warszawa.pl/mapaApp1/mapa?service=mapa_akustyczna</title>
+    </bookmark>
+    <bookmark href="https://lublin.eu/gfx/lublin/userfiles/_public/mieszkancy/srodowisko/halas/mapa_akustyczna_pliki_do_pobrania/a0-2.1_-_mapa_imisyjna_-_halas_drogowy_-_ldwn.pdf" id="290">
+      <title>a0-2.1_-_mapa_imisyjna_-_halas_drogowy_-_ldwn.pdf</title>
+    </bookmark>
+    <bookmark href="https://geoportal.lublin.eu/2d/#" id="291">
+      <title>https://geoportal.lublin.eu/2d/#</title>
+    </bookmark>
+    <bookmark href="https://www.adradar.pl/" id="292">
+      <title>Adradar - przeszukiwarka portali nieruchomości</title>
+    </bookmark>
+    <bookmark href="https://nowadeweloper.pl/blog/faq-co-zrobic-po-zakupie-mieszkania-lista-pytan-i-odpowiedzi/" id="293">
+      <title>FAQ: Co zrobić po zakupie mieszkania? Lista pytań i odpowiedzi - Nowa Deweloper</title>
+    </bookmark>
+    <bookmark href="https://homeewaw.pl/blog/formalnosci-po-zakupie-mieszkania/?__im-ut00dv2i=1227098259103641453" id="294">
+      <title>Kupiłem mieszkanie – co dalej? Formalności po zakupie mieszkania – Homeewaw</title>
+    </bookmark>
+    <bookmark href="https://cena-mieszkania.pl/oplata-przeksztalceniowa-po-zakupie-mieszkania" id="295">
+      <title>Opłata Przekształceniowa Po Zakupie Mieszkania Wszystko Co Musisz Wiedzieć | cena-mieszkania.pl</title>
+    </bookmark>
+    <bookmark href="https://gmina.com.pl/lublin" id="296">
+      <title>Gmina Lublin - Kontakt / Urząd Miasta Lublin</title>
+    </bookmark>
+    <bookmark href="https://pewnylokal.pl/zgloszenie-podatku-epuap" id="297">
+      <title>Zgłoszenie do podatku od nieruchomości ePUAP</title>
+    </bookmark>
+    <bookmark href="https://przyjazne-deklaracje.pl/kalkulatory/menadzer/menadzer-kalkulatorow?profileCode=O4B&amp;templateCode=IN-1" id="298">
+      <title>Menadżer Deklaracji</title>
+    </bookmark>
+    <bookmark href="https://www.lubkom.pl/" id="299">
+      <title>Administrowanie i Zarządzanie Nieruchomościami -&quot;Lub-Kom&quot; Sp. z o. o. Lublin</title>
+    </bookmark>
+  </folder>
+  <folder id="300">
+    <title>wiosenny_poranek</title>
+    <bookmark href="https://www.youtube.com/watch?v=b4SrFwu0rIs" id="301">
+      <title>Sposób na toksycznych ludzi #106 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ZGvi8rNj1-A" id="302">
+      <title>Toksyczna osoba w najbliższym otoczeniu - co wtedy robić? | Krzysztof Sarnecki - YouTube</title>
+    </bookmark>
+    <folder id="303">
+      <title>principales</title>
+      <bookmark href="https://www.youtube.com/channel/UCIxKK9rpBLuUiMb3-qeUxWg" id="311">
+        <title>Autentyczny - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@swiatduchafilmy" id="312">
+        <title>Spirit World site - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@RICHARDGRANNON" id="313">
+        <title>RICHARD GRANNON - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@drogowskazypodcast" id="314">
+        <title>Drogowskazy - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@jerrywise" id="315">
+        <title>Jerry Wise - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@Kris_Reece" id="316">
+        <title>Kris Reece - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@narcissisticfamilies" id="317">
+        <title>Unfilteredd: Narcissistic Families - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@DrLesCarter" id="318">
+        <title>Dr. Les Carter - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/channel/UCb2Q6W_wO38THfOMKwqExpQ" id="319">
+        <title>Decoding the Avoidant - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@mydailylove.attachment" id="320">
+        <title>MyDailyLove (Attachment secrets) - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@Psycharisma" id="330">
+        <title>Psycharisma - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@TheSavageNarrator" id="331">
+        <title>The Savage Narrator - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@unikowy_pl" id="332">
+        <title>unikowy_pl Poznaj unikający styl przywiązania - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@magdalenaleszko" id="333">
+        <title>Magdalena Leszko - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/@DekodujNarcyza" id="334">
+        <title>Decode the narcissist - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLzWo1Mng2oP0cqHglqdU5rDOHWH51TvgI" id="335">
+        <title>Drogowskazy - YouTube</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://ineffableliving.com/heal-from-a-narcissistic-parent/" id="304">
+      <title>Survivors of Narcissistic Parents: 7 Tips to Healing From A Narcissistic Parent</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=HgPn3lAFSdU" id="305">
+      <title>If They Do This… They’re a Narcissist - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=U_yVi6MX1Is" id="306">
+      <title>5 Clues to Spot a &apos;Christian&apos; Narcissist - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Y2-7unYTzxE" id="307">
+      <title>6 Disturbing Things Narcissists Secretly Do When Alone | Stoic Mindset - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=VHX_fgIjVh4" id="308">
+      <title>7 People Narcissists Secretly Fear - I wish I knew this sooner! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=3CH-fmpa6ZM" id="309">
+      <title>What Happens to a Narcissist When You Stop Caring? - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ovsb6WTcOME" id="310">
+      <title>Avoidant personality disorder and narcissistic relationships - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=O1zEvlJAMV4" id="321">
+      <title>Navigating avoidant attachment in narcissistic relationships - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ZiHkOFTURlg" id="322">
+      <title>Unmasking the Narcissist Without Saying a Word - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=FpOyLjnwnEk" id="323">
+      <title>Avoidant Personality Disorder Risk Factors | The Causes of Chronic Self Consciousness - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/results?search_query=avoidant+personality+disorder" id="324">
+      <title>avoidant personality disorder - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=a1PjW2h_eJU" id="325">
+      <title>Why God Has Kept You Single | 5 Powerful Revelations for the Chosen Ones - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=pBDrajvL1So" id="326">
+      <title>55 Test Questions to Judge How Good Your Parents Were - YouTube</title>
+    </bookmark>
+    <bookmark href="https://lubimyczytac.pl/ksiazka/4959648/psychopata-w-pracy-w-rodzinie-i-wsrod-znajomych-instrukcja-obslugi" id="327">
+      <title>Psychopata w pracy, w rodzinie i wśród znajomych. Instrukcja obsługi - Jarosław Gibas | Książka w Lubimyczytac.pl - Opinie, oceny, ceny</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=dXKfddY5v0A" id="328">
+      <title>10 Clear Signs You&apos;re More Attractive Than You Think | Carl Jung - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=YtTHDNRt6ns" id="329">
+      <title>7 Signs You Intimidate People (Without Realizing It) - YouTube</title>
+    </bookmark>
+  </folder>
+  <bookmark href="about:tor" id="336">
+    <title>About Tor</title>
+  </bookmark>
+  <bookmark href="https://www.google.pl/" id="337">
+    <title>Google</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
