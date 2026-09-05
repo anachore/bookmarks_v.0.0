@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :337: for Floccus bookmark sync browser extension -->
+<!--- highestId :338: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -10,6 +10,9 @@
   </bookmark>
   <folder id="6">
     <title>na_otwarto</title>
+    <folder id="338">
+      <title>zakupy</title>
+    </folder>
     <bookmark href="https://mapy.meteo.pl/" id="10">
       <title>ICM Meteo</title>
     </bookmark>
